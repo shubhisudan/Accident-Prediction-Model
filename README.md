@@ -3,12 +3,19 @@ This repository contains a comparative analysis of accident prediction models us
 
 ## Project Overview
 
+
 ### Dataset Overview
 Following is an overview of our dataset:
+
 ● Total Number of Accident Images: 461
+
 ● Total Number of Non-Accident Images: 528
+
 ● Types of Accidents: Traffic Incidents
+
 ● Severity Levels: Minor, Moderate, Severe
+
+
 
 ### Models and Performance
 
